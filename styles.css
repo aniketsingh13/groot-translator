@@ -19,7 +19,7 @@ h1 {
     right: 3px;
 }
 
-#input-txt {
+#input-txts {
     display: block;
     margin: 2rem;
     width: 40%;
@@ -42,7 +42,7 @@ h1 {
     margin-left: 2rem;
 }
 
-#output {
+#outputs {
     border: 1px solid black;
     width: 30%;
     height: 20vh;
