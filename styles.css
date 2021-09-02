@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: #22577A;
+    height: 3rem;
+    margin: 0 auto 2rem;
+    padding: 2rem 0;
+}
+
+.groot-image {
+
+    width: 40%;
+    position: absolute;
+    right: 3px;
+}
+
+#input-txt {
+    display: block;
+    margin: 2rem;
+    width: 40%;
+    height: 20vh;
+    border: 1px solid black;
+
+}
+
+#button-txt {
+    background-color: #22577A;
+    min-width: 10%;
+    height: 5vh;
+    position: absolute;
+    left: 400px;
+
+}
+
+.text {
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+
+#output {
+    border: 1px solid black;
+    width: 30%;
+    height: 20vh;
+    margin-left: 1rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #22577A;
+    margin: 0;
+
+}
+
+.gt {
+    font-size: 250%;
+}
