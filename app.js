@@ -17,7 +17,7 @@ function clickHandler() {
     .then(response => response.json())
     .then(json => {
         var translatedText = json.contents.translated;
-        divOutput.innerText = translatedText;
+        divOutputs.innerText = translatedText;
 
     })
     .catch(errorHandler);
